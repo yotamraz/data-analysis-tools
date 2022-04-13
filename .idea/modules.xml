@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FS-ZED/.idea/FS-ZED.iml" filepath="$PROJECT_DIR$/../FS-ZED/.idea/FS-ZED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../darknet/.idea/darknet.iml" filepath="$PROJECT_DIR$/../darknet/.idea/darknet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/data-science.iml" filepath="$PROJECT_DIR$/.idea/data-science.iml" />
+    </modules>
+  </component>
+</project>
